@@ -18,6 +18,7 @@ DEFCONFIG_FRAGMENTS=(
     arch/arm64/configs/gki_defconfig
     arch/arm64/configs/vendor/sun_perf.config
     arch/arm64/configs/vendor/oplus/sun_perf.config
+    arch/arm64/configs/kernelsu.config
 )
 
 config() {
